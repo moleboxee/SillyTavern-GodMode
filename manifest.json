@@ -1,0 +1,14 @@
+{
+    "display_name": "上帝之手 GodMode",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "local",
+    "version": "4.10.10",
+    "homePage": "",
+    "hooks": {
+        "activate": "init"
+    }
+}
